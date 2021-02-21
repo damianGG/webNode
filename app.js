@@ -28,5 +28,5 @@ app.listen(port, (err) => {
 if (err) {
 return console.log("coś poszło nie tak...:", err)
 }
-console.log("serwer działa na porcie", port)
+console.log("serwer działa", port)
 })
